@@ -1,5 +1,5 @@
 # 0x-Wallet-Generator
-Solana Wallet Generator
+0x Wallet Generator
 
 ![0x Wallet Generator](https://i.ibb.co/S3jhvJk/xx.png)
 
