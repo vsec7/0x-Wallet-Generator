@@ -1,0 +1,29 @@
+{
+  "name": "0x-wallet-generator",
+  "version": "1.0.0",
+  "description": "ERC20, BEP20 , etc wallet generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/vsec7.git"
+  },
+  "keywords": [
+    "ERC20",
+    "BEP20"
+  ],
+  "author": "github.com/vsec7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/vsec7/issues"
+  },
+  "homepage": "https://github.com/github.com/vsec7#readme",
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "eth-lib": "^0.1.29",
+    "ethereum-mnemonic-privatekey-utils": "^1.0.5",
+    "readline-sync": "^1.4.10"
+  }
+}
